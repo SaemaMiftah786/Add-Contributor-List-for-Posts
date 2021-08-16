@@ -1,6 +1,9 @@
 # Display Authors for Posts
 This plugin adds an extra meta field named Contributors to the Post page.
 
+
+Please add these files under the same name folder
+
 Contributors: Saema Miftah
 Donate link: https://google.com //no link as of now
 Tags: comments, spam
